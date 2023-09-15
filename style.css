@@ -14,11 +14,11 @@ header h1 img{
 }
 main h1{
     color: red;
-    text-align:center ;
+    text-align: center ;
 }
 table, td, tr{
     border: 5 px solid white;
-    border-radius:10 px ;
+    border-radius: 10 px ;
     text-align: center;
 }
 .image-1 {
@@ -113,7 +113,7 @@ table, td, tr{
 }
 footer h1{
     text-align: center;
-    color:red;
+    color: red;
 }
 nav {
     border-bottom: 1 px dashed navy;
